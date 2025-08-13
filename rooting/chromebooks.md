@@ -19,7 +19,7 @@
 <br>
 
 <p align="center">
-<img src="c0731.png" width="80%"/>
+<img src="imgs/c0731.png" width="80%"/>
 </p>
 
 <br>
@@ -61,7 +61,7 @@ cd; curl -LOk mrchromebox.tech/firmware-util.sh && sudo bash firmware-util.sh
  <br>
 
 <p align="center">
-<img src="firmware.png" width="80%"/>
+<img src="imgs/firmware.png" width="80%"/>
 </p>
 
 <br>
@@ -74,5 +74,3 @@ cd; curl -LOk mrchromebox.tech/firmware-util.sh && sudo bash firmware-util.sh
 * recommendations are **[lubuntu](https://lubuntu.me/downloads/)** or **[galliumos](https://galliumos.org/)**
 * use `ctrl-u` to boot from usb
 * install your portable light linux and be free
-
-
