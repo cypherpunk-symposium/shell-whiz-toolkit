@@ -1,8 +1,14 @@
-## dotfiles, shell scripts, and other scripts (decades of *nix 🐧)
+## 💾 the shell whiz toolkit
 
 <br>
 
-### dirs in  this repo
+##### ➡️ dotfiles, shell scripts, rooting, clouds, random scripts, decades of *nix, etc. etc.
+
+<br>
+
+---
+
+### chapters
 
 <br>
 
